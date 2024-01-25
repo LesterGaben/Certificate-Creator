@@ -1,0 +1,6 @@
+[submodule "CertificateCreatorAPI"]
+	path = CertificateCreatorAPI
+	url = https://github.com/LesterGaben/CertificateCreatorAPI.git
+[submodule "CertificateCreatorFrontEnd"]
+	path = CertificateCreatorFrontEnd
+	url = https://github.com/LesterGaben/CertificateCreator-FrontEnd.git
